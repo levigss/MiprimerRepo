@@ -8,5 +8,5 @@ git commit -m "Descripcion del cambio en el proyecto"
 git push
 ```
 
-## Nota:
-Si no me dice quien soy; entonces necesito restaurar la PC.
+# Nota:
+Accediendo a git solo sin ayuda en mi primer git
